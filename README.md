@@ -3,7 +3,35 @@ Offenes Repository zum Teilen seiner Karteikarten für Anki, StudySmarter, etc. 
 Basierend auf Inhalten gelehrt an der Hochschule Darmstadt.
 
 # Regeln
-TODO
+## Ordnerstruktur
+Ich bin offen für Gegenvorschläge, aber die (aktuelle) Ordnerstruktur sollte folgend aussehen:
+```
+> "Fachbereich" > "Diplomstufe" > "Semester/Wahlbereich" > "Fachname" > !Hier_die_Karteikarten_reinlegen!
+```
+Beispiel
+```
+> Informatik > Bachelor > Semester3 > Quantenmechanik > QM_WS2020_Einstein.apkg
+```
+## Dateien
+Aktuell sind mir zwei digitale Karteikartenoptionen bekannt:
+
+### Anki
+Anki ist ein für unterschiedliche stationäre und mobile Systeme verfügbares Offline-Karteikartenprogramm. Es ist ist möglich, seine Karteikartensätze zu exportieren, am besten im .apkg Format.
+Der Name sollte folgend aufgebaut sein:
+```
+"Abkürzung_des_Faches"_"Semester_und_Jahr_des_Satzes"_"Nachname_des_Dozenten"
+```
+Beispiel: Quantenmechanik aus dem Wintersemester 2020 vorgetragen von Einstein
+```
+QM_WS2020_Einstein
+```
+### Studsmarter
+Studysmarter ist....
+
+Da hier die Kartensätze nur über Online-Links geteilt werden können, reicht pro Fach eine .txt Datei aus, in der alle Links gesammelt sind.
+
+Damit innerhalb dieser Datei auch eine Übersicht erhalten bleibt, sollte über jedem Link das Semesterjahr sowie der Dozent genannt werden.
+
 
 # Wie kann ich mich beteiligen?
 TODO
