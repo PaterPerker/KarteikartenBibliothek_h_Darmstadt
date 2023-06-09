@@ -25,6 +25,8 @@ Beispiel: Quantenmechanik aus dem Wintersemester 2020 vorgetragen von Einstein
 ```
 QM_WS2020_Einstein
 ```
+
+Falls eine Datei mit diesem Namen bereits existiert, einfach "_Student2" usw. einfügen. Es kann schließlich sein, dass für das gleiche Semester und Fach mehrere Kartensätze erstellt werden.
 ### Studsmarter
 Studysmarter ist....
 
@@ -46,4 +48,4 @@ Anstatt vorhandene Karteikarten(sätze) zu modifizieren können auch neue hinzug
 Letztendlich: Die Karteikarten werden öfter, als nur ein Semester lang verwendet.
 
 # Warum öffentlich auf GitHub?
-Ich weiß, wir haben ein internes Git-System. Da ich mir aber unsicher bin gut diese Idee mit den Hochschulrichtlinien zusammenspielt, fände ich es sicherer diese Inhalte nicht über Accounts zu veröffentlichen, die direkt den Namen des Students verraten.  
+Ich weiß, wir haben ein internes Git-System. Da ich mir aber unsicher bin, wie gut diese Idee mit den Hochschulrichtlinien zusammenspielt, fände ich es sicherer diese Inhalte über Accounts zu veröffentlichen, die nicht direkt den Namen des Students verraten.  
