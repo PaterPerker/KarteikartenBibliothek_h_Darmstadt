@@ -3,6 +3,11 @@ Offenes Repository zum Teilen seiner Karteikarten für Anki, StudySmarter, etc. 
 Basierend auf Inhalten gelehrt an der Hochschule Darmstadt.
 
 # Regeln
+## Inhalte
+Dieses Repository dient AUSSCHLIEßLICH zum Austausch von Lern-Karteikarten, sei es für Anki, Studysmarter oder noch andere Plattformen.
+
+Jegliche Dokumente wie Altklausuren oder Lösungen für Hausaufgaben sind verboten.
+
 ## Ordnerstruktur
 Ich bin offen für Gegenvorschläge, aber die (aktuelle) Ordnerstruktur sollte folgend aussehen:
 ```
@@ -19,7 +24,7 @@ Aktuell sind mir zwei digitale Karteikartenoptionen bekannt:
 Anki ist ein für unterschiedliche stationäre und mobile Systeme verfügbares Offline-Karteikartenprogramm. Es ist ist möglich, seine Karteikartensätze zu exportieren, am besten im .apkg Format.
 Der Name sollte folgend aufgebaut sein:
 ```
-"Abkürzung_des_Faches"_"Semester_und_Jahr_des_Satzes"_"Nachname_des_Dozenten"
+"Abkürzung_des_Faches"_"Semester_und_Jahr_des_Satzes"_"OPTIONAL:Nachname_des_Dozenten"
 ```
 Beispiel: Quantenmechanik aus dem Wintersemester 2020 vorgetragen von Einstein
 ```
@@ -36,7 +41,15 @@ Damit innerhalb dieser Datei auch eine Übersicht erhalten bleibt, sollte über 
 
 
 # Wie kann ich mich beteiligen?
-TODO
+## Werde Contributor!
+Kontaktiere irgendwie mich oder jemanden, der die Rechte dazu hat, dich als Contributor hinzuzufügen.
+Mein Studium wird auch irgendwann enden und dann werde ich sehr wahrscheinlich keine Zeit dafür haben, dieses Repository zu überwachen. Aber auch während des Studiums ist die Zeit begrenzt.
+
+## Mache einen Pull Request!
+Ich meine, selbst wenn man kein Contributor ist, kann man welche machen.
+
+## Öffne Issues!
+Je detaillierter desto besser! Vorschläge um bestimmte Karten hinzuzufügen, Karten korrigieren, ...
 
 # Idee dahinter
 Ich habe leider viel zu spät im Studium gemerkt, dass das Lernen mit Karteikarten sehr effektiv ist. Eine Sache, die mich am meisten davor abschreckte, war meine Faulheit, Karteikarten zu erstellen.
