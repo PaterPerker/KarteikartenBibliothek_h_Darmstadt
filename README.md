@@ -2,6 +2,9 @@
 Offenes Repository zum Teilen seiner Karteikarten für Anki, StudySmarter, etc. KEINE GARANTIE AUF KORREKTHEIT DER INHALTE!
 Basierend auf Inhalten gelehrt an der Hochschule Darmstadt.
 
+# Update 21.07.2023
+Wegen technischen Problem bin ich nicht in der Lage, auf die Web-UI zuzugreifen, was bedeutet, dass ich keine Contributors hinzufügen kann u.ä.. Dieses kleine Projekt scheint wohl also doch ein wenig auf Eis gelegt zu sein. Hoffentlich kann es euch trotzdem inspirieren, eure hart erarbeiteten Kartensätze mit anderen Studenten zu teilen, dadurch werden auch andere von eurer Arbeit profitieren können. Anki hat beispielsweise ein eigenes öffentliches Repository. Eventuell ergänze ich hier noch Informationen, wie das funktioniert und ob man auch dort seine Kartensätze updaten kann.
+
 # Regeln
 ## Inhalte
 Dieses Repository dient AUSSCHLIEßLICH zum Austausch von Lern-Karteikarten, sei es für Anki, Studysmarter oder noch andere Plattformen.
